@@ -24,7 +24,7 @@ git repo 命令行格式如下：
 
 使用 git-repo 管理多个代码仓库的典型使用场景，如下图所示：
 
-{{< figure src="/images/git-repo-manifest.gif" caption="图: git-repo for multiple repositories" >}}
+{{< figure src="/images/git-repo-manifest.gif" caption="图: git-repo 针对多仓库的操作" >}}
 
 上面的演示场景中，主要步骤如下：
 

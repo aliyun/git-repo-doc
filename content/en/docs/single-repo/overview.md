@@ -12,4 +12,4 @@ weight: 31
 
 Demo for git workflow on a single repository:
 
-{{< figure src="/images/git-repo-single.gif" caption="Fig: git-repo for multiple repositories" >}}
+{{< figure src="/images/git-repo-single.gif" caption="Fig: git-repo for a single repository" >}}

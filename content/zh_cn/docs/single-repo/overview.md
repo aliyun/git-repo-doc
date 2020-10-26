@@ -12,4 +12,4 @@ weight: 31
 
 使用 git-repo 针对单仓库系统的示意如下：
 
-{{< figure src="/images/git-repo-single.gif" caption="图: git-repo for multiple repositories" >}}
+{{< figure src="/images/git-repo-single.gif" caption="图: git-repo 针对单仓库的操作" >}}
