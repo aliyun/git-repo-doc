@@ -1,3 +1,9 @@
+---
+title: "Download"
+draft: false
+weight: 20
+---
+
 # Download
 
 ## Latest version

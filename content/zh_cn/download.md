@@ -1,4 +1,8 @@
-# 下载
+---
+title: "下载"
+draft: false
+weight: 20
+---
 
 根据您的平台类型（Linux、Mac、或是 Windows），CPU 类型（amd64 或 386）下载合适的软件包。
 

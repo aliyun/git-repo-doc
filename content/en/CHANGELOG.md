@@ -1,3 +1,9 @@
+---
+title: "Changelog"
+draft: false
+weight: 10
+---
+
 # Changelog
 
 Changes of git-repo.
