@@ -15,7 +15,7 @@ buttons:
   - link: docs/
     text: Getting Started
     color: primary
-  - link: https://github.com/alibaba/git-repo-go/releases
+  - link: https://git-repo.info/en/download/
     text: Download git-repo
     color: default
 ---

@@ -310,7 +310,7 @@ git-repo is an open-source software on GitHub.
 
 ### Installation
 
-1. Download the latest release of "git-repo" from [https://github.com/alibaba/git-repo-go/releases](https://github.com/alibaba/git-repo-go/releases).
+1. Download the latest release of "git-repo" from [https://git-repo.info/en/download/](https://git-repo.info/en/download/).
 
    Choose the proper package according to your OS (Linux, Mac, or Windows) and architecture (AMD or 386), download and extract the package.
 

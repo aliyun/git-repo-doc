@@ -9,7 +9,7 @@ enableToc: false
 
 ### 步骤 1：安装 git-repo
 
-访问 git-repo 的下载页面: [https://github.com/alibaba/git-repo-go/releases](https://github.com/alibaba/git-repo-go/releases)。
+访问 git-repo 的下载页面: [https://git-repo.info/zh_cn/download/](https://git-repo.info/zh_cn/download/)。
 
 根据您平台的类型，下载合适的软件包。然后将下载并解压缩后的 `git-repo` 文件拷贝到可执行目录中（如 Linux 下的 `/usr/local/bin` 目录），即完成安装。
 
